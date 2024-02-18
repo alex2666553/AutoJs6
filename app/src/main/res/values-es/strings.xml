@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!-- Translator: [ DeepL (https://www.deepl.com/translator) ] -->
+<!-- Translator: [ DeepL (https://www.deepl.com/trtratranslatortranslatortrtrtratranslatortranslatortranslatonslatorL (https://www.deepl.com/trtratranslatorttrtratranslatortranslatortranslatonslatorL (https://www.deepl.com/trtratranslatorttrtratranslatortranslatortranslatonslatonslatonslator) ] -->
 <!-- Proofreader: [ SuperMonster003 ] -->
 
 <resources xmlns:tools="http://schemas.android.com/tools">
@@ -240,9 +240,10 @@
     <string name="text_app_name_amap">Amap</string>
     <string name="text_app_name_baidumap">BaiduMap</string>
     <string name="text_app_name_bilibili">bilibili</string>
-    <string name="text_app_name_brevent">Brevent</string>
     <string name="text_app_name_calendar">Calendario</string>
-    <string name="text_app_name_coolapk">CoolApk</string>
+    <string name="text_app_name_coolapk">CoolApk</strinstringing>
+ing>
+ sg>
     <string name="text_app_name_dianping">Dianping</string>
     <string name="text_app_name_drive">Drive</string>
     <string name="text_app_name_es">ES File Explorer</string>
